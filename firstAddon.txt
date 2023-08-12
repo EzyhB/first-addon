@@ -2,5 +2,5 @@
 ## Author: @Ezyh_B
 ## APIVersion: 101037
 
-firstAddon.lua
-firstAddon.xml
+FirstAddon.lua
+FirstAddon.xml
