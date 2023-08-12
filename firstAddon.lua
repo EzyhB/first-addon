@@ -5,6 +5,7 @@ simpleClock.name = "simpleClock"
 
 local function updateClock()
     time = os.date("%a %b %d, %H:%M:%S")
+    simpleClockLable:SetText(time)
 end
 
 function simpleClock.OnAddOnLoaded()
